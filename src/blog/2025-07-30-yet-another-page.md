@@ -4,6 +4,7 @@ description: A new event page
 date: 2025-07-30
 image: /assets/blog/article-5.jpg
 imageAlt: This is a test
+tags: "post"
 ---
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
